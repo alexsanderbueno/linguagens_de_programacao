@@ -7,7 +7,7 @@ public class Main{
             System.out.println(estudante);
         }*/
        //Crie uma lista com 5 produtos 
-       //Exiba cada produto utilizandom foreach
+       //Exiba cada produto utilizando foreach
        //e tambem for
     //    String[]Legumes= {"Batata","Beterraba","Berinjela", "Mandioca", "Cenoura"};
     //    for (String Hortifruti:Legumes){
