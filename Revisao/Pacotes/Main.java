@@ -5,8 +5,8 @@ import java.util.ArrayList;
 
 
 public class Main {
-    private List<Vendedor> vendedores = new ArrayList<>();
-    private List<Cliente> clientes = new ArrayList<>();
+    private static List<Vendedor> vendedores = new ArrayList<>();
+    private  static List<Cliente> clientes = new ArrayList<>();
     public static void main(String[] args) {
         vendedores.add (new Vendedor("Jubileu"));
         clientes.add(new Cliente("Joaozinho"));

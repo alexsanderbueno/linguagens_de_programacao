@@ -3,7 +3,7 @@ package cliente;
 public class Cliente {
     private String nome;
 
-    private Cliente(String nome){
+    public Cliente(String nome){
         this.nome = nome;
     }
 
